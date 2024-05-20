@@ -42,3 +42,6 @@ Django <- Templates- <-  Response <- Views.py
 ASSIGNMENT
 ---
 To render web pages for about us and contact s page using static files.
+
+
+## Jinja2 and django apps
